@@ -1,5 +1,5 @@
 # test-sangria-graphql-akka
-## GraphQL Query
+## GraphQL Query `http//localhost:8080/customer`
 ### get customer by id
 ```
 {
